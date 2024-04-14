@@ -23,7 +23,7 @@
     "foods": {
       "icon": "textures/items/beef_cooked",
       "path": "path",
-      "name": "§l§6Foods",
+      "name": "§l§6FoodNFarm",
       "category": {}
     },
     "items": {
@@ -187,6 +187,42 @@
         "price": 2
       },
       {
+        "icon": "textures/items/oak_sapling",
+        "path": "path",
+        "item": "minecraft:oak_sapling",
+        "price": 10
+      },
+      {
+        "icon": "textures/items/spruce_sapling",
+        "path": "path",
+        "item": "minecraft:spruce_sapling",
+        "price": 10
+      },
+      {
+        "icon": "textures/items/birch_sapling",
+        "path": "path",
+        "item": "minecraft:birch_sapling",
+        "price": 10
+      },
+      {
+        "icon": "textures/items/jungle_sapling",
+        "path": "path",
+        "item": "minecraft:jungle_sapling",
+        "price": 10
+      },
+      {
+        "icon": "textures/items/acacia_sapling",
+        "path": "path",
+        "item": "minecraft:acacia_sapling",
+        "price": 10
+      },
+      {
+        "icon": "textures/items/dark_oak_sapling",
+        "path": "path",
+        "item": "minecraft:dark_oak_sapling",
+        "price": 10
+      },
+      {
         "icon": "textures/items/apple",
         "path": "path",
         "item": "minecraft:apple",
@@ -265,6 +301,12 @@
         "path": "path",
         "item": "minecraft:totem",
         "price": 1000
+      },
+      {
+        "icon": "textures/items/saddle",
+        "path": "path",
+        "item": "minecraft:saddle",
+        "price": 999
       },
       {
         "icon": "textures/items/experience_bottle",
