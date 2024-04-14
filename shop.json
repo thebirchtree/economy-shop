@@ -187,39 +187,66 @@
         "price": 2
       },
       {
-        "icon": "textures/items/oak_sapling",
+        "icon": "textures/items/sapling_oak",
         "path": "path",
-        "item": "minecraft:oak_sapling",
+        "item": "minecraft:sapling",
+        "data": 0,
         "price": 10
       },
       {
-        "icon": "textures/items/spruce_sapling",
+        "icon": "textures/items/sapling_spruce",
         "path": "path",
-        "item": "minecraft:spruce_sapling",
+        "item": "minecraft:sapling",
+        "data": 1,
         "price": 10
       },
       {
-        "icon": "textures/items/birch_sapling",
+        "icon": "textures/items/sapling_birch",
         "path": "path",
-        "item": "minecraft:birch_sapling",
+        "item": "minecraft:sapling",
+        "data": 2,
         "price": 10
       },
       {
-        "icon": "textures/items/jungle_sapling",
+        "icon": "textures/items/sapling_jungle",
         "path": "path",
-        "item": "minecraft:jungle_sapling",
+        "item": "minecraft:sapling",
+        "data": 3,
         "price": 10
       },
       {
-        "icon": "textures/items/acacia_sapling",
+        "icon": "textures/items/sapling_acacia",
         "path": "path",
-        "item": "minecraft:acacia_sapling",
+        "item": "minecraft:sapling",
+        "data": 4,
         "price": 10
       },
       {
-        "icon": "textures/items/dark_oak_sapling",
+        "icon": "textures/items/sapling_roofed_oak",
         "path": "path",
-        "item": "minecraft:dark_oak_sapling",
+        "item": "minecraft:sapling",
+        "data": 5,
+        "price": 10
+      },
+      {
+        "icon": "textures/items/mangrove_sapling",
+        "path": "path",
+        "item": "minecraft:sapling",
+        "data": 6,
+        "price": 10
+      },
+      {
+        "icon": "textures/items/mangrove_sapling",
+        "path": "path",
+        "item": "minecraft:sapling",
+        "data": 7,
+        "price": 10
+      },
+      {
+        "icon": "textures/items/cherry_sapling",
+        "path": "path",
+        "item": "minecraft:sapling",
+        "data": 8,
         "price": 10
       },
       {
