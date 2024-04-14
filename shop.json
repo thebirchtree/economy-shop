@@ -187,45 +187,60 @@
         "price": 2
       },
       {
-        "icon": "textures/items/sapling_oak",
+        "icon": "textures/blocks/sapling_oak",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 0,
         "price": 10
       },
       {
-        "icon": "textures/items/sapling_spruce",
+        "icon": "textures/blocks/sapling_spruce",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 1,
         "price": 10
       },
       {
-        "icon": "textures/items/sapling_birch",
+        "icon": "textures/blocks/sapling_birch",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 2,
         "price": 10
       },
       {
-        "icon": "textures/items/sapling_jungle",
+        "icon": "textures/blocks/sapling_jungle",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 3,
         "price": 10
       },
       {
-        "icon": "textures/items/sapling_acacia",
+        "icon": "textures/blocks/sapling_acacia",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 4,
         "price": 10
       },
       {
-        "icon": "textures/items/dark_oak_sapling",
+        "icon": "textures/blocks/sapling_roofed_oak",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 5,
+        "price": 10
+      },
+
+      {
+        "icon": "textures/blocks/mangrove_roots_side",
+        "path": "path",
+        "item": "minecraft:mangrove_roots",
+        "data": 6,
+        "price": 50
+      },
+      {
+        "icon": "textures/blocks/cherry_sapling",
+        "path": "path",
+        "item": "minecraft:cherry_sapling",
+        "data": 7,
         "price": 10
       },
       {
