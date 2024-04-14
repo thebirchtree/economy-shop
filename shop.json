@@ -222,31 +222,10 @@
         "price": 10
       },
       {
-        "icon": "textures/items/sapling_roofed_oak",
+        "icon": "textures/items/dark_oak_sapling",
         "path": "path",
         "item": "minecraft:sapling",
         "data": 5,
-        "price": 10
-      },
-      {
-        "icon": "textures/items/mangrove_sapling",
-        "path": "path",
-        "item": "minecraft:sapling",
-        "data": 6,
-        "price": 10
-      },
-      {
-        "icon": "textures/items/mangrove_sapling",
-        "path": "path",
-        "item": "minecraft:sapling",
-        "data": 7,
-        "price": 10
-      },
-      {
-        "icon": "textures/items/cherry_sapling",
-        "path": "path",
-        "item": "minecraft:sapling",
-        "data": 8,
         "price": 10
       },
       {
